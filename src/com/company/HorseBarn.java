@@ -9,4 +9,12 @@ public class HorseBarn {
             }
         }
     }
+    public void consolidate(Horse[] spaces){
+        int[] empties;
+        for(int i = 0; i<spaces.length; i++){
+            if(i = ""){
+                empties.add(i);
+            }
+        }
+    }
 }
